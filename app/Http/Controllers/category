@@ -1,0 +1,25 @@
+category
+	sub category
+
+Vehicle
+Furniture
+Animals
+Electronics
+
+
+
+categoryOptions
+	id 	
+
+Ad
+
+
+
+Brands
+	brandsId   categoryId	brandsName 	 
+
+Models
+	
+
+Size
+	id 
